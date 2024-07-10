@@ -6,8 +6,8 @@
   <DefaultLocale>en-US</DefaultLocale>
   <DisplayName DefaultValue="Outlook-Add-in-SSO-SPA"/>
   <Description DefaultValue="A template to get started."/>
-  <IconUrl DefaultValue="https://marcinpanasiuk.github.io/testing/assets/icon-64.png"/>
-  <HighResolutionIconUrl DefaultValue="https://marcinpanasiuk.github.io/testing/assets/icon-128.png"/>
+  <IconUrl DefaultValue="https://marcinpanasiuk.github.io/naa/assets/icon-64.png"/>
+  <HighResolutionIconUrl DefaultValue="https://marcinpanasiuk.github.io/naa/assets/icon-128.png"/>
   <SupportUrl DefaultValue="https://www.contoso.com/help"/>
   <AppDomains>
     <AppDomain>https://www.contoso.com</AppDomain>
@@ -23,7 +23,7 @@
   <FormSettings>
     <Form xsi:type="ItemRead">
       <DesktopSettings>
-        <SourceLocation DefaultValue="https://marcinpanasiuk.github.io/testing/taskpane.html"/>
+        <SourceLocation DefaultValue="https://marcinpanasiuk.github.io/naa/taskpane.html"/>
         <RequestedHeight>250</RequestedHeight>
       </DesktopSettings>
     </Form>
@@ -69,12 +69,12 @@
     </Hosts>
     <Resources>
       <bt:Images>
-        <bt:Image id="Icon.16x16" DefaultValue="https://marcinpanasiuk.github.io/testing/assets/icon-16.png"/>
-        <bt:Image id="Icon.32x32" DefaultValue="https://marcinpanasiuk.github.io/testing/assets/icon-32.png"/>
-        <bt:Image id="Icon.80x80" DefaultValue="https://marcinpanasiuk.github.io/testing/assets/icon-80.png"/>
+        <bt:Image id="Icon.16x16" DefaultValue="https://marcinpanasiuk.github.io/naa/assets/icon-16.png"/>
+        <bt:Image id="Icon.32x32" DefaultValue="https://marcinpanasiuk.github.io/naa/assets/icon-32.png"/>
+        <bt:Image id="Icon.80x80" DefaultValue="https://marcinpanasiuk.github.io/naa/assets/icon-80.png"/>
       </bt:Images>
       <bt:Urls>
-        <bt:Url id="Taskpane.Url" DefaultValue="https://marcinpanasiuk.github.io/testing/taskpane.html"/>
+        <bt:Url id="Taskpane.Url" DefaultValue="https://marcinpanasiuk.github.io/naa/taskpane.html"/>
       </bt:Urls>
       <bt:ShortStrings>
         <bt:String id="GroupLabel" DefaultValue="Contoso Add-in"/>
